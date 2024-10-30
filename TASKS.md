@@ -66,6 +66,10 @@ The following tasks are suggested improvements and features. Feel free to come u
 
 Make sure that the calculator responds appropriately if used incorrectly and doesn’t break. Such as pressing equals too early, pressing an operator without entering a number, or pressing two operators in a row.
 
+*Implementation Considerations*
+
+Make sure that the click is ignored and indicate to the user that something went wrong - such as by making the button red for a short time, or showing an alert to say that the input was invalid (easier, but not as intuitive and fun to use).
+
 ### Organise Your Code with a Class
 
 Convert all of your code to run from a single `Calculator` class.
