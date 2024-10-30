@@ -66,6 +66,8 @@ The following tasks are suggested improvements and features. Feel free to come u
 
 Make sure that the calculator responds appropriately if used incorrectly and doesn’t break. Such as pressing equals too early, pressing an operator without entering a number, or pressing two operators in a row.
 
+Think through the different ways that the interface could be used incorrectly. Wrote them out and spend time considering them. Try out other calculators and see how they handle invalid input.
+
 *Implementation Considerations*
 
 Make sure that the click is ignored and indicate to the user that something went wrong - such as by making the button red for a short time, or showing an alert to say that the input was invalid (easier, but not as intuitive and fun to use).
