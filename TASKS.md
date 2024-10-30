@@ -2,6 +2,8 @@
 
 A list of tasks to complete.
 
+## Core Functionality
+
 ## Button Shape Options
 
 An option to have round or square buttons.
