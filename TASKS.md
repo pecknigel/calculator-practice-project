@@ -56,7 +56,15 @@ The first entered number will need to be stored elsewhere now so that a second n
 
 ### Step 4: Respond to Equals Button Clicks
 
+Set up the equals button so that it can be used to make the entered calculation. Allow the result to be used for a new operation.
 
+*Implementation Considerations*
+
+Make the calculation based on the current state. Set up `handleEqualsClick` to do that.
+
+### Step 5: Set Up the Clear Button
+
+Set up the clear button so that it clears the current state.
 
 ## Further Work
 
@@ -80,8 +88,9 @@ Convert all of your code to run from a single `Calculator` class.
 
 Set up your state as properties on the class. Set up your functions as methods. Move code for initialisation to the `constructor`.
 
-——
+### Support Floating Point Operations
 
+Set up a decimal point button and support floating point calculations.
 
 ### Button Shape Options
 
