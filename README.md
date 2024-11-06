@@ -11,7 +11,9 @@ Technologies Used:
 
 If you’re looking to start simple, it can be best to just do HTML and CSS.
 
-This project may not be ideal for that.
+This project may not be ideal for that, since the HTML and CSS are provided.
+
+However, looking over them can be a good way to learn, so perhaps start there.
 
 ## How it Looks
 
