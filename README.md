@@ -17,3 +17,4 @@ However, looking over them can be a good way to learn, so perhaps start there.
 
 ## How it Looks
 
+![IMG_3368](https://github.com/user-attachments/assets/7e66ab99-7dd5-48ad-b388-0bba52fec924)
