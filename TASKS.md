@@ -1,5 +1,7 @@
 # Suggested Tasks
 
+***This document is a work in progress - November 2024.***
+
 Suggested tasks to complete.
 
 This project is provided for learning and practice. Use it as you see fit - however works for your learning.

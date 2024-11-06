@@ -1,7 +1,9 @@
 
 # Calculator Practice Project
 
-This code is provided for students looking to work on a simple calculator web application as a practice project, written without any JavaScript frameworks (Vanilla JS).
+This repository is provided for students looking to work on a simple calculator web application as a practice project.
+
+View the code [using GitHub Preview](https://html-preview.github.io/?url=https://raw.githubusercontent.com/pecknigel/calculator-practice-project/refs/heads/main/index.html).
 
 Technologies Used:
 
@@ -17,6 +19,17 @@ However, looking over them can be a good way to learn, so perhaps start there.
 
 ## How it Looks
 
+This is how it looks before you get started. 
 ![IMG_3368](https://github.com/user-attachments/assets/7e66ab99-7dd5-48ad-b388-0bba52fec924)
 
-[View this using GitHub Preview](https://html-preview.github.io/?url=https://raw.githubusercontent.com/pecknigel/calculator-practice-project/refs/heads/main/index.html).
+## How it Works
+
+The HTML and CSS are provided so that you can get straight in to the [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [Browser APIs](https://developer.mozilla.org/en-US/docs/Web/API) (most notably [The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)).
+
+A great place to start learning that can be [The Modern JavaScript Tutorial](https://javascript.info/). There’s no affiliation here, it’s just an awesome resource.
+
+Ongoing support and guided learning is available from Nigel via [Preply](https://preply.com/en/tutor/4217857).
+
+## Tasks
+
+For ideas on how to move forward with using this project to practice writing software, see [TASKS](https://github.com/pecknigel/calculator-practice-project/blob/main/TASKS.md).
