@@ -28,7 +28,7 @@ The HTML and CSS are provided so that you can get straight in to the [JavaScript
 
 A great place to start learning that can be [The Modern JavaScript Tutorial](https://javascript.info/). There’s no affiliation here, it’s just an awesome resource.
 
-Ongoing support and guided learning is available from Nigel via [Preply](https://preply.com/en/tutor/4217857).
+Ongoing support and guided learning is available from Nigel via the [main website](https://prescriptionfree.academy/).
 
 ## Tasks
 
