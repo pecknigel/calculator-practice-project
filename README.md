@@ -26,7 +26,9 @@ This is how it looks before you get started.
 
 The HTML and CSS are provided so that you can get straight in to the [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [Browser APIs](https://developer.mozilla.org/en-US/docs/Web/API) (most notably [The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)).
 
-A great place to start learning that can be [The Modern JavaScript Tutorial](https://javascript.info/). There’s no affiliation here, it’s just an awesome resource.
+Open up the `script.js` or replace it with `script-with-structure.js` if you’d prefer some structure to work to.
+
+To learn what you need to complete this project, check out our [Courses and Resources](https://docs.prescriptionfree.academy/resources) page.
 
 Ongoing support and guided learning is available from Nigel via the [main website](https://prescriptionfree.academy/).
 
