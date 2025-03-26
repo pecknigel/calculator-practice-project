@@ -28,9 +28,9 @@ The HTML and CSS are provided so that you can get straight in to the [JavaScript
 
 Once you’ve cloned the Git repository, open up the `script.js` or replace it with `script-with-structure.js` if you’d prefer some structure to work to. And get to work writing the JavaScript.
 
-To learn what you need to complete this project, check out our [Courses and Resources](https://docs.prescriptionfree.academy/resources) page.
+To learn what you need to complete this project, check out our [Courses and Resources](https://library.peckn.net//resources) page.
 
-Ongoing support and guided learning is available from Nigel via the [main website](https://prescriptionfree.academy/).
+Ongoing support and guided learning is available from Nigel via [Preply](https://preply.com/en/tutor/4217857).
 
 ## Tasks
 
