@@ -8,7 +8,7 @@ This project is provided for learning and practice. Use it as you see fit - howe
 
 If you prefer more structure, the tasks below can provide that.
 
-Ongoing support and guided learning is available from Nigel via [Prescription Free Academy](https://prescriptionfree.academy/).
+Ongoing support and guided learning is available from Nigel via [Preply](https://preply.com/en/tutor/4217857).
 
 ## Essentials
 
