@@ -82,6 +82,10 @@ Think through the different ways that the interface could be used incorrectly. W
 
 Make sure that the click is ignored and indicate to the user that something went wrong - such as by making the button red for a short time, or showing an alert to say that the input was invalid (easier, but not as intuitive and fun to use).
 
+### Handle a Zero as the First Digit Entered
+
+Work on what to do when the user presses a zero as the first number. What about if they press two zeros in a row at the start of the number? Work on how to properly handle that situation.
+
 ### Organise Your Code with a Class
 
 Convert all of your code to run from a single `Calculator` class.
